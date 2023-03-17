@@ -2,9 +2,9 @@
 /**
  * main - Entry point
  *
- * Description: program that prints with the fuctioun (puts)
+ *Description: program that prints with the fuctioun (puts)
  *
- * Return: always zero
+ *Return: always zero
  */ 
  int main(void)
 {
