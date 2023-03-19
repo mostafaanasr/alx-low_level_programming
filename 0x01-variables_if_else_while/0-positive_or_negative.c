@@ -4,7 +4,7 @@
 /*
  * main - entry point
  *
- * Description: a program that takes a number and return whether its posititve or negative or zero
+ * Description: a program that takes a number and return whether its posititve or negative or zerio
  *
  * Return: always return (0)
 */
@@ -16,14 +16,14 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n > 0){
-		printf("%u is positive\n", n);
+		printf("%i is positive\n", n);
 	}
 	else{
 		if(n < 0){
 			printf("%d is negative\n", n);
 		}
 		else{
-			printf("%u is zero\n", n);
+			printf("%i is zero\n", n);
 		}
 	}
 	return (0);
