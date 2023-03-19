@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /*
- * main - entry point
+ * Main - entry point
  *
  * Description: a program that return positive or negative or zero
  *
