@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdlib.h>
 
-/*
- * Main - Entry point
+/**
+ * main - entry point
  *
  * Description: a program that return positive or negative or zero
  *
